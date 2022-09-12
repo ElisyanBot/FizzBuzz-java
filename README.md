@@ -1,5 +1,5 @@
 # FizzBuzz-java
-Fista Java course Asignment
+First Java course Assignment
 
 Creator:
 Marcus Larsson
